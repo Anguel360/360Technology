@@ -244,7 +244,6 @@
 // Functions.
 
 	/// Removes a specific item from a list.
-	/// @author Hugo Giraudel
 	/// @param {list} $list List.
 	/// @param {integer} $index Index.
 	/// @return {list} Updated list.
@@ -281,7 +280,6 @@
 	}
 
 	/// Replaces a substring within another string.
-	/// @author Hugo Giraudel
 	/// @param {string} $string String.
 	/// @param {string} $search Substring.
 	/// @param {string} $replace Replacement.
